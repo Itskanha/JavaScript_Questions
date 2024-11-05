@@ -1,5 +1,3 @@
-Here’s a mixed-up version of the description with a lively flow:
-
 ---
 
 🌟 **15 Days of JavaScript Challenges** 🌟
