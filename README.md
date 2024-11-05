@@ -1,4 +1,4 @@
----
+
 
 🌟 **15 Days of JavaScript Challenges** 🌟
 
@@ -15,6 +15,8 @@ Each day focuses on different aspects of JavaScript, offering a mix of practical
 - **Daily Tasks**: Tackle new challenges every day, ranging from basic syntax to advanced concepts.
 
 By the end of this challenge, you’ll not only have a solid understanding of JavaScript but also a collection of projects to showcase! 🌈 
+
+---
 
 ### Day-by-Day Breakdown
 
