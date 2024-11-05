@@ -11,9 +11,9 @@ Each day focuses on different aspects of JavaScript, offering a mix of practical
 ### 🗓️ Challenge Overview
 
 - **Hands-on Learning**: Practice coding with real-world applications to reinforce your knowledge.
-- 
+ 
 - **Final Project**: At the end of the challenge, put your skills to the test by creating a project that incorporates everything you’ve learned! 🎨
-- 
+  
 - **Daily Tasks**: Tackle new challenges every day, ranging from basic syntax to advanced concepts.
 
 By the end of this challenge, you’ll not only have a solid understanding of JavaScript but also a collection of projects to showcase! 🌈 
