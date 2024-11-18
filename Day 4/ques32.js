@@ -4,7 +4,7 @@
 //    ```
 
 function removeElement() {
-    let div = document.getElementById("container"); // Get the element with the ID "container"
+    let div = document.getElementById("container"); // Get the element with the ID container
     document.body.removeChild(div); // Remove the element from the body
 }
 
