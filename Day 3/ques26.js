@@ -1,6 +1,6 @@
 // 6. **Stop event propagation:**  
 //```javascript
-// Only the child click event will trigger an alert, not the parent.
+// Only the child click event will trigger an alert  not the parent.
 //```
 
 // Get parent and child elements
